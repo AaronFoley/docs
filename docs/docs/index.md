@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Introduction
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Hello,
 
-## Commands
+My name is Aaron Foley, I am a developer with an interest in Infrastructure.
+This is my collection of guide and documentation for various projects within my Home Lab.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This site is read-only, the source code is maintained on my github:
+<https://github.com/AaronFoley/docs>

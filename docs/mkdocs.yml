@@ -1,3 +1,28 @@
-site_name: Foley Lab Notes
+site_name: Lab Notes
+site_description: Lab Notes and Guides
+site_author: Aaron Foley
+site_url: https://github.com/AaronFoley/docs
+
+copyright: 'Copyright &copy; 2018 Aaron Foley'
+
+extra:
+  social:
+    - type: github-alt
+      link: https://github.com/AaronFoley
+    - type: twitter
+      link: https://twitter.com/AaronFoley
+    - type: linkedin
+      link: https://linkedin.com/in/AaronStephenFoley/
+
 theme:
   name: 'material'
+  custom_dir: 'theme'
+  logo:
+    icon: "device_hub"
+  favicon: 'assets/images/favicon.png'
+
+nav:
+- Home: 'index.md'
+- Guides:
+  - Doc System: 'guides/documentation.md'
+  - SSO Nginx proxy: 'guides/nginx-sso.md'
